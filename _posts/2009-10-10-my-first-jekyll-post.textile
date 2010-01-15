@@ -1,0 +1,10 @@
+---
+layout: post
+title: My first Jekyll post
+---
+
+h1. {{ page.title }}
+
+p(meta). 10 Oct 2009 - San Antonio
+
+p. this is really weird.
